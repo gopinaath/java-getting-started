@@ -16,3 +16,4 @@ docs/deploying-spring-boot-apps/
 
 # others added
 .mvn
+.DS_Store
