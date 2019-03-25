@@ -8,3 +8,11 @@ target/
 docs/tmp/
 docs/java-getting-started/
 docs/deploying-spring-boot-apps/
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+# others added
+.mvn
