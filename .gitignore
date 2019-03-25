@@ -13,7 +13,7 @@ docs/deploying-spring-boot-apps/
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
-
+!.elasticbeanstalk/config.yml
 # others added
 .mvn
 .DS_Store
